@@ -1,7 +1,7 @@
 # Cat and Dog Image Classifier
 
 **Status:** Completed
-**Accuracy Achieved:** 64.0%
+**Accuracy Achieved:** 84.0%
 **Result:** Passed the challenge (Threshold: 63%)
 
 ---
